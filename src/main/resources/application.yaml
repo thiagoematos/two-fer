@@ -4,3 +4,10 @@ spring:
     consumer:
       auto-offset-reset: earliest
       group-id: two-fer
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/two-fer
+    username: postgres
+    password: postgres
+  jpa:
+    show-sql: true

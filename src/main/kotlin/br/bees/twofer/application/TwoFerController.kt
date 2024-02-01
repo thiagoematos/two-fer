@@ -1,4 +1,4 @@
-package br.bees.twofer
+package br.bees.twofer.application
 
 import br.bees.twofer.domain.TwoFerInterface
 import org.springframework.http.ResponseEntity

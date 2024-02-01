@@ -1,4 +1,4 @@
-package br.bees.twofer.config
+package br.bees.twofer.application
 
 import br.bees.twofer.domain.TwoFer
 import br.bees.twofer.domain.TwoFerInterface

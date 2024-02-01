@@ -1,5 +1,6 @@
 package br.bees.twofer
 
+import br.bees.twofer.application.TwoFerController
 import br.bees.twofer.domain.TwoFerInterface
 import com.ninjasquad.springmockk.MockkBean
 import io.kotest.core.spec.style.ShouldSpec
